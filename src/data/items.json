@@ -4,35 +4,35 @@
       "id": 1,
       "name": "Wood",
       "price": 0.01,
-      "image": "/src/assets/images/wood.jpg",
+      "image": "/assets/images/wood.jpg",
       "description": "High-quality construction wood"
     },
     {
       "id": 2,
       "name": "Sand",
       "price": 0.005,
-      "image": "/src/assets/images/sand.jpg",
+      "image": "/assets/images/sand.jpg",
       "description": "Fine construction sand"
     },
     {
       "id": 3,
       "name": "Stone",
       "price": 0.015,
-      "image": "/src/assets/images/stone.jpg",
+      "image": "/assets/images/stone.jpg",
       "description": "Durable construction stone"
     },
     {
       "id": 4,
       "name": "Cement",
       "price": 0.02,
-      "image": "/src/assets/images/cement.jpg",
+      "image": "/assets/images/cement.jpg",
       "description": "Premium quality cement"
     },
     {
       "id": 5,
       "name": "Steel",
       "price": 0.03,
-      "image": "/src/assets/images/steel.jpg",
+      "image": "/assets/images/steel.jpg",
       "description": "Industrial grade steel"
     }
   ]
